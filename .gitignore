@@ -1,0 +1,9 @@
+.env
+data.bd
+echo_bot.session
+.venv
+my_bot.session
+data.db
+/service/__pycache__/
+/database/__pycache__/
+
